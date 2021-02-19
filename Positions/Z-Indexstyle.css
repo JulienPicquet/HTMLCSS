@@ -1,0 +1,27 @@
+.index-1 {
+    z-index: 3;
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background: orange;
+}
+
+.index-2 {
+    z-index: 2;
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background: purple;
+    top: 50px;
+    left: 50px;
+}
+
+.index-3 {
+    z-index: 1;
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background: pink;
+    top: 100px;
+    left: 100px;
+}
